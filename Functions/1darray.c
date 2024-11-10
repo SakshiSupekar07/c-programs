@@ -24,7 +24,7 @@ int main() {
     int index = 0;
     for (i = 0; i < rows; i++) {
         for (j = 0; j < cols; j++) {
-            arr1D[index] = arr2D[i][j];
+            arr1D[index] = arr2D[i][j]
             index++;
         }
     }
