@@ -13,7 +13,7 @@ int main() {
     }
 
     
-    fscanf(file, "%d %d", &rows, &cols);
+    fscanf(file, "%d %d", &rows, &cols)
 
    
     int **matrix = (int **)malloc(rows * sizeof(int *));
