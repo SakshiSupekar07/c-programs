@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    void *ptr =NULL
+    void *ptr =NULL;
     printf("The value of pointer variable is %p\n",ptr);
     int num=10;
     ptr=&num;
