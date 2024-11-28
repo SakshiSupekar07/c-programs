@@ -3,7 +3,7 @@
 int main() {
     int rows, cols, i, j;
     
-    // Input dimensions of the 2D array
+    
     printf("Enter the number of rows: ");
     scanf("%d", &rows);
     printf("Enter the number of columns: ");
