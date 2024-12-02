@@ -16,7 +16,7 @@ int main() {
     printf("Enter the elements of the 2D array:\n");
     for (i = 0; i < rows; i++) {
         for (j = 0; j < cols; j++) {
-            scanf("%d", &arr2D[i][j])
+            scanf("%d", &arr2D[i][j]);
         }
     }
 
