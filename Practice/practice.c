@@ -10,7 +10,7 @@ int main()
     printf("The value ofptr using typecasted void pointer: %d\n", *((int*)ptr));
     double doubleVar = 3.14159;
     ptr = &doubleVar;
-    printf("The value of ptr using typecasted void pointer: %f\n", *((double*)ptr));
+    printf("The value of ptr using typecasted void pointer: %f\n", *((double*)ptr))
 
 
     return 0;
