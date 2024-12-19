@@ -11,7 +11,7 @@ int main() {
     // c. Print the value and address of this pointer
     printf("The value of ptr (address of intVar): %p\n", (void*)ptr);
     printf("The address of ptr itself: %p\n", (void*)&ptr);
-    printf("The value stored at ptr (value of intVar): %d\n", *ptr);
+    printf("The value stored at ptr (value of intVar): %d\n", *ptr)
 
     // d. Assign the value 10 to the pointer variable (dereference and change the value)
     *ptr = 10;
