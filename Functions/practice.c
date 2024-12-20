@@ -13,5 +13,5 @@ int main()
     printf("The value of ptr using typecasted void pointer: %f\n", *((double*)ptr));
 
 
-    return 0
+    return 0;
 }
