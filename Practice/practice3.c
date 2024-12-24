@@ -14,7 +14,7 @@ int main() {
     printf("The value stored at ptr (value of intVar): %d\n", *ptr)
 
     // d. Assign the value 10 to the pointer variable (dereference and change the value)
-    *ptr = 10;
+    *ptr = 10
 
     // e. Print the value of the pointer variable (it should now hold the value 10 at the location it points to)
     printf("The new value stored at ptr (value of intVar): %d\n", *ptr);
