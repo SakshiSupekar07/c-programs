@@ -5,7 +5,7 @@ int main()
     fp=fopen("out.txt","w");
     if(fp==NULL)
     {
-        printf("Error opening file")
+        printf("Error opening file");
 
     }
     fprintf(fp,"Hello GOOD Morning!!!");
