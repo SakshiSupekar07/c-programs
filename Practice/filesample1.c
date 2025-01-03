@@ -6,7 +6,7 @@ int main()
     fp=fopen("out.txt","r")
     if(fp==NULL)
     {
-        printf("Error opening file");
+        printf("Error opening file")
 
     }
     fscanf(fp,"%c",&ch);
