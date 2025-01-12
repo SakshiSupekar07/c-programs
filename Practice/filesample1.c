@@ -10,7 +10,7 @@ int main()
 
     }
     fscanf(fp,"%c",&ch);
-    printf("Character is=%c",ch);
+    printf("Character is=%c",ch)
     fclose(fp);
     return 0;
 }
