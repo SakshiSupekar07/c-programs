@@ -6,7 +6,7 @@ int main() {
     int rows, cols;
 
     
-    file = fopen("matrix.txt", "r");
+    file = fopen("matrix.txt", "r")
     if (file == NULL) {
         printf("Error opening file.\n");
         return 1;
