@@ -6,7 +6,7 @@ int main() {
 
     // b. Assign the address of an integer variable to the pointer variable
     int intVar = 5;
-    ptr = &intVar;
+    ptr = &intVar
 
     // c. Print the value and address of this pointer
     printf("The value of ptr (address of intVar): %p\n", (void*)ptr);
