@@ -3,7 +3,7 @@
 
 int main() {
     FILE *file;
-    int rows, cols;
+    int rows, cols
 
     
     file = fopen("matrix.txt", "r")
