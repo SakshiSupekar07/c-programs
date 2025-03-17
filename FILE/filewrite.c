@@ -10,5 +10,5 @@ int main()
     }
     fprintf(fp,"Hello GOOD Morning!!!");
     fclose(fp);
-    return 0;
+    return 0
 }
