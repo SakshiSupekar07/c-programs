@@ -9,7 +9,7 @@ int main() {
     file = fopen("matrix.txt", "r")
     if (file == NULL) {
         printf("Error opening file.\n");
-        return 1;
+        return 1
     }
 
     
