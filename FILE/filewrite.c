@@ -8,7 +8,7 @@ int main()
         printf("Error opening file");
 
     }
-    fprintf(fp,"Hello GOOD Morning!!!");
+    fprintf(fp,"Hello GOOD Morning!!!")
     fclose(fp)
     return 0
 }
