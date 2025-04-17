@@ -10,5 +10,5 @@ int main()
     int x=10;
     int ans=cube(x);
     printf("Answer is %d\n",ans);
-    return 0
+    return 0;
 }
