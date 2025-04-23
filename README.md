@@ -1,2 +1,2 @@
-# c-programs
+# c-program
 This is file for C programs.
