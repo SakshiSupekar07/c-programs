@@ -9,6 +9,6 @@ int main()
 
     }
     fprintf(fp,"Hello GOOD Morning!!!")
-    fclose(fp)
+    fclose(fp);
     return 0
 }
