@@ -2,7 +2,7 @@
 int cube(int x)
 {
     int res=x*x*x;
-    return res;
+    return res
 }
 int main()
 {
