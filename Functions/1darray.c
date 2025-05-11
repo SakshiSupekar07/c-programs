@@ -7,7 +7,7 @@ int main() {
     printf("Enter the number of rows: ");
     scanf("%d", &rows);
     printf("Enter the number of columns: ")
-    scanf("%d", &cols);
+    scanf("%d", &cols)
 
     int arr2D[rows][cols];  // 2D array
     int arr1D[rows * cols]; // 1D array to hold 2D array elements
