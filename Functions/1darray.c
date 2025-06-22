@@ -13,7 +13,7 @@ int main() {
     int arr1D[rows * cols]; // 1D array to hold 2D array elements
 
     // Input for the 2D array
-    printf("Enter the elements of the 2D array:\n");
+    printf("Enter the elements of the 2D array:\n")
     for (i = 0; i < rows; i++) {
         for (j = 0; j < cols; j++) {
             scanf("%d", &arr2D[i][j])
