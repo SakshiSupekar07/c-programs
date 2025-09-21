@@ -1,4 +1,4 @@
-#include <stdio.h>
+r#include <stdio.h>
 
 int main() {
     // a. Declare a pointer of type integer and assign NULL to it
@@ -22,5 +22,5 @@ int main() {
     // f. Print the value stored at the address where the pointer variable is pointing to
     printf("The value stored at the address where ptr is pointing: %d\n", *ptr);
 
-    return 0
+    return 0;
 }
