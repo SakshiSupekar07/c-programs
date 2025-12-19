@@ -15,7 +15,7 @@ int main()
     }
     else
     printf("Number is zero");
-    return 0;
+    return 0
 
 
     
