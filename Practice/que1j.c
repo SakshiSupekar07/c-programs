@@ -16,7 +16,7 @@ int main()
     printf("printing the values\n");
     printf("value of integer is%d\n",i);
     printf("value of double is%lf\n",d);
-    printf("value of long double is%Lf\n",ld);
+    printf("value of long double is%Lf\n",ld)
     printf("Value of character is: %c\n", ch);
 
 
