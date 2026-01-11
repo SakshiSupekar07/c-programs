@@ -29,7 +29,7 @@ int main() {
     }
 
     
-    fclose(file);
+    fclose(file)
 
     
     printf("Matrix (%d x %d):\n", rows, cols);
