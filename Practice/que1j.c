@@ -20,7 +20,7 @@ int main()
     printf("Value of character is: %c\n", ch);
 
 
-    return 0
+    return 0;
 
     
 }
