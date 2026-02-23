@@ -5,7 +5,7 @@ int main()
     printf("Enter the character");
     scanf("%c",&ch);
     printf("The character is%c\n",ch);
-    return 0
+    return 0;
 
 
 
