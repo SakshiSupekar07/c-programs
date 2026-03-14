@@ -9,7 +9,7 @@ int main()
 
     printf("You entered: %s\n", str);
 
-    return 0;
+    return 0
 }
 
 
