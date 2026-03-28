@@ -11,6 +11,6 @@ int main()
     }
     fscanf(fp,"%c",&ch);
     printf("Character is=%c",ch)
-    fclose(fp);
+    fclose(fp)
     return 0;
 }
