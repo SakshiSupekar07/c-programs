@@ -12,7 +12,7 @@ int main()
     printf("The subtraction of two numbers is %d\n",sub);
     printf("The Multiplication of two numbers is %d\n",mul);
     printf("The division of two numbers is %d\n",div);
-    return 0
+    return 0;
 
 
 }
