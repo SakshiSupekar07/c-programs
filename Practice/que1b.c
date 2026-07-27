@@ -5,5 +5,5 @@ int main()
     printf("Enter the integer");
     scanf("%d",&i);
     printf("The value of integer is %d\n",i);
-    return 0;
+    return 0
 }
