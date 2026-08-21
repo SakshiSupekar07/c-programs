@@ -16,6 +16,6 @@ int main()
     }
     }
     printf("The Multiplication of odd numbers is%d\n",count);
-    return 0;
+    return 0
 
 }
