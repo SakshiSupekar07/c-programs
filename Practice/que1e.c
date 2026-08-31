@@ -12,5 +12,5 @@ int main()
     printf("values after swapping\n");
     printf("The value of i=%d\n The value of j=%d\n",i,j);
 
-    return 0;
+    return 0
 }
