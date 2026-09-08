@@ -10,6 +10,6 @@ int main()
     a=a-b;
   printf("values after swapping\n");
   printf("a=%d b=%d\n",a,b)
-  return 0
+  return 0;
     
 }
