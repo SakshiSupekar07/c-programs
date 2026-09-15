@@ -1,4 +1,4 @@
-9r#include <stdio.h>
+#include <stdio.h>
 
 int main() {
     // a. Declare a pointer of type integer and assign NULL to it
