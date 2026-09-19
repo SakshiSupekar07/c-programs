@@ -22,5 +22,5 @@ int main() {
     // f. Print the value stored at the address where the pointer variable is pointing to
     printf("The value stored at the address where ptr is pointing: %d\n", *ptr);
 
-    return 0;
+    return 0
 }
