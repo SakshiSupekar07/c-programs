@@ -11,7 +11,7 @@ int main()
     printf("The addition of two numbers is %d\n",add);
     printf("The subtraction of two numbers is %d\n",sub);
     printf("The Multiplication of two numbers is %d\n",mul);
-    printf("The division of two numbers is %d\n",div);
+    printf("The division of two numbers is %d\n",div)
     return 0
 
 
