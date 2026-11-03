@@ -20,7 +20,7 @@ int main() {
     printf("The new value stored at ptr (value of intVar): %d\n", *ptr);
 
     // f. Print the value stored at the address where the pointer variable is pointing to
-    printf("The value stored at the address where ptr is pointing: %d\n", *ptr);
+    printf("The value stored at the address where ptr is pointing: %d\n", *ptr)
 
     return 0;
 }
