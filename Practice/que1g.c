@@ -11,6 +11,6 @@ int main()
        printf("The root is%d\n",res);
     int res1=(-b-sqrt(b*b-4*a*c))/(2*a);
          printf("The root is%d\n",res1);
-    return 0;
+    return 0
 
 }
